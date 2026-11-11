@@ -14,9 +14,62 @@
 
 ### Hi, I'm Francis 👋
 
-A **Business Information Technology student at KNUST**, database enthusiast, and developer based in **Ghana 🇬🇭**. I build across Python, web, and desktop, explore business intelligence, and am learning Flutter.
+I'm a **full-stack developer, Windows app developer, and AI chatbot builder** based in **Ghana 🇬🇭**, studying Business Information Technology at **KNUST**.
 
-I like understanding **why a problem matters** as much as figuring out how to solve it.
+I bring together interface design, application logic, and databases to turn ideas into complete digital products—from web platforms and desktop tools to conversational experiences. My business background shapes the questions I ask: **Who is this for? What problem does it solve? How can it work better?**
+
+I care about thoughtful visuals, clear interactions, and the engineering behind them.
+
+<br>
+
+### What I design & build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 Full-stack development
+**From the first screen to the database.**
+
+I build web experiences that connect frontend interfaces with backend services, authentication, APIs, and structured data. I enjoy bringing the pieces together into one coherent product.
+
+`Web interfaces` · `APIs` · `Databases`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🪟 Windows applications
+**Useful software, right on your desktop.**
+
+I develop Windows apps and productivity tools that simplify everyday tasks. My focus spans desktop interfaces, file utilities, and automation, with attention to clear controls and practical workflows.
+
+`Desktop UI` · `Productivity` · `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI chatbots
+**Conversation with a purpose.**
+
+I build AI chatbot experiences that help users ask questions, find information, and get things done. I care about how the conversation feels, how the assistant fits into a product, and whether its responses are useful.
+
+`Conversational UI` · `AI integration` · `Assistants`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 Interface design
+**Clarity in every screen.**
+
+I shape layouts, reusable cards, visual identities, and user flows with attention to typography, spacing, and hierarchy. I enjoy carrying a design through to a working interface.
+
+`UI design` · `Visual identity` · `Interaction`
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -58,7 +111,7 @@ A desktop file organizer with dry-run previews, duplicate detection, storage ana
 | Focus | What I'm doing |
 | :--- | :--- |
 | **Data & decisions** | Power BI dashboards, DAX, SQL, and relational data modeling. |
-| **Useful software** | Python applications, FastAPI backends, and workflow automation. |
+| **Core toolkit** | Python, FastAPI, SQLAlchemy, SQL, React, and C# across web and Windows projects. |
 | **Product thinking** | Building and selling study guides with custom Python and ReportLab pipelines. |
 | **Learning next** | Flutter and cross-platform mobile development. |
 
@@ -80,7 +133,7 @@ A desktop file organizer with dry-run previews, duplicate detection, storage ana
 
 > Understand the business. Model the data. Build with care. Ship something useful.
 
-I'm open to **internships, freelance projects, and thoughtful collaborations** in data, business intelligence, and software—especially ideas with a connection to the African market.
+I'm open to **internships, freelance projects, and thoughtful collaborations** in **full-stack development, Windows apps, AI chatbots, interface design, and data**—especially ideas with a connection to the African market.
 
 **[Let's connect on LinkedIn ↗](https://www.linkedin.com/in/francis-kusi-1b643a258/)**
 
