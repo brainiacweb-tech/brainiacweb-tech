@@ -6,6 +6,13 @@
 <linearGradient id="line"><stop stop-color="#71F6C5"/><stop offset="1" stop-color="#E8C77B"/></linearGradient>
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#B3DACC" stroke-opacity=".055"/></pattern>
 </defs>
+<style>
+.orbit { transform-origin: 0px 0px; animation: orbit 45s linear infinite; }
+.pulse { animation: pulse 5s ease-in-out infinite; }
+@keyframes orbit { to { transform: rotate(360deg); } }
+@keyframes pulse { 0%,100% { opacity: .18; } 50% { opacity: .65; } }
+@media (prefers-reduced-motion: reduce) { .orbit,.pulse { animation: none; } }
+</style>
 <rect width="1280" height="420" rx="24" fill="url(#bg)"/>
 <rect width="1280" height="420" rx="24" fill="url(#grid)"/>
 <path d="M56 58H100" stroke="#71F6C5" stroke-width="4"/>
@@ -18,8 +25,8 @@
 <text x="59" y="371" fill="#A7BBC4" font-size="13" letter-spacing="2">WEB / WINDOWS / AI / DESIGN</text>
 </g>
 <g transform="translate(1000 208)">
-<circle r="151" fill="none" stroke="#71F6C5" stroke-opacity=".12"/>
-<circle r="112" fill="none" stroke="#71F6C5" stroke-opacity=".2" stroke-dasharray="3 10"/>
+<circle class="pulse" r="151" fill="none" stroke="#71F6C5" stroke-opacity=".12"/>
+<circle class="orbit" r="112" fill="none" stroke="#71F6C5" stroke-opacity=".2" stroke-dasharray="3 10"/>
 <ellipse rx="172" ry="67" transform="rotate(-38)" fill="none" stroke="url(#line)" stroke-opacity=".65"/>
 <ellipse rx="172" ry="67" transform="rotate(38)" fill="none" stroke="#71F6C5" stroke-opacity=".25"/>
 <path d="M-80-83L85-68L0 105Z" fill="#71F6C5" fill-opacity=".035" stroke="#71F6C5" stroke-opacity=".3"/>
