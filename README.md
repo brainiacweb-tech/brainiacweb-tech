@@ -101,20 +101,121 @@ A toolkit for Ghanaian phone numbers, cedi amounts, and Mobile Money transaction
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/brainiacweb-tech/sortify"><img src="https://raw.githubusercontent.com/brainiacweb-tech/sortify/main/assets/laptop_hero_mockup.jpg" alt="Sortify desktop application displayed on a laptop" width="100%"></a>
+<a href="https://github.com/brainiacweb-tech/BrainiacDeck-Ultimate"><img src="https://raw.githubusercontent.com/brainiacweb-tech/BrainiacDeck-Ultimate/main/docs/assets/screenshots/dark-dashboard.png" alt="BrainiacDeck Ultimate native Windows dashboard in dark mode" width="100%"></a>
 
-#### ⚡ Sortify
-**Less file chaos. More control.**
+#### 🪟 BrainiacDeck Ultimate
+**One Desktop. Unlimited Possibilities.**
 
-A desktop file organizer with dry-run previews, duplicate detection, storage analytics, and undo. Built to make everyday file management easier.
+A native Windows workspace bringing together teleprompting, screen capture and recording, video editing, clipboard tools, file conversion, and a floating content shelf.
 
-`Python` · `React` · `Flask`
+Designed with a shared interface system, light and dark themes, keyboard navigation, and local workflows.
 
-**[Explore Sortify ↗](https://github.com/brainiacweb-tech/sortify)**
+`C#` · `.NET 10` · `WPF` · `SQLite`
+
+**[Explore BrainiacDeck ↗](https://github.com/brainiacweb-tech/BrainiacDeck-Ultimate)** · **[Preview release ↗](https://github.com/brainiacweb-tech/BrainiacDeck-Ultimate/releases/tag/v0.2.0-preview.1)**
 
 </td>
 </tr>
 </table>
+
+<br>
+
+
+### More from my workshop
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔎 GapLens AI
+**From literature to research direction.**
+
+A research workspace for comparing papers, inspecting source excerpts, exploring potential gaps, and exporting reports. Connects PDF and DOI inputs with AI-assisted analysis.
+
+<sub>Next.js · Supabase · AI integrations</sub>
+
+**[Explore project ↗](https://github.com/brainiacweb-tech/GapLens)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 ClassDrop
+**Course resources, beyond the group chat.**
+
+An academic resource hub for organizing course materials, sharing files, and finding resources with natural-language search. Includes student, representative, and administrator workflows.
+
+<sub>Flask · Supabase · Claude API</sub>
+
+**[Explore project ↗](https://github.com/brainiacweb-tech/ClassDrop)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏦 BrainiacBank
+**A complete fintech portfolio experience.**
+
+An educational banking simulation with client and admin dashboards, transaction records, visual analytics, virtual card interfaces, and a simulated chat assistant. No real banking transactions.
+
+<sub>Flask · PostgreSQL · Chart.js</sub>
+
+**[Explore project ↗](https://github.com/brainiacweb-tech/brainiacbank)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎓 Smart Assessment Portal
+**Student experience meets instructor oversight.**
+
+An online assessment platform with timed quizzes, role-based dashboards, webcam proctoring, integrity indicators, and instructor review tools.
+
+<sub>Django · OpenCV · Tailwind CSS</sub>
+
+**[Explore project ↗](https://github.com/brainiacweb-tech/Brainiac-Proctored-Smart-Assessment-Portal-)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 Budget Tracker Pro
+**Make spending easier to understand.**
+
+A desktop budgeting app with expense categories, budget alerts, visual spending breakdowns, local storage, and formatted Excel exports.
+
+<sub>Python · Tkinter · SQLite · Matplotlib</sub>
+
+**[Explore project ↗](https://github.com/brainiacweb-tech/brainiac-expense-tracker)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤝 SusuTurn
+**Community savings, structured in software.**
+
+A rotating savings group management project built around the Ghanaian susu model: member contributions, payout turns, and savings-cycle rules.
+
+<sub>Python · SQLite · Financial logic</sub>
+
+**[Explore project ↗](https://github.com/brainiacweb-tech/susuturn)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### The experiences I design
+
+| Design area | What I bring together |
+| :--- | :--- |
+| **Dashboards & data stories** | Clear metrics, charts, status cards, filters, and reporting layouts. |
+| **Windows workspaces** | Tool navigation, command search, floating panels, settings, and coordinated light/dark themes. |
+| **Web platforms & portals** | Responsive pages, role-based dashboards, forms, onboarding, and administration flows. |
+| **Conversational experiences** | Chat layouts, useful prompts, response presentation, and assistants integrated into a wider product. |
+| **Product identity** | Typography, color palettes, reusable UI cards, spacing, and consistent visual hierarchy. |
+| **Business workflows** | Data models, approval steps, file operations, exports, and automation shaped around the task. |
 
 <br>
 
