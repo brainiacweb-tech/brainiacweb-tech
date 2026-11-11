@@ -1,24 +1,91 @@
-# 💫 About Me:
-🎯 About Me<br>I'm Francis Kusi, a third-year BSc Business Information Technology student at Kwame Nkrumah University of Science and Technology (KNUST), School of Business, Department of Supply Chain and Information Systems. My academic path has deliberately straddled two worlds: the analytical rigor of information systems, databases, and business analytics, alongside the strategic lens of operations management, marketing, and business law. That combination shapes how I approach every problem. I want to understand both how a system works and why it matters to the business before I build anything.<br>I describe myself as a database enthusiast, aspiring data analyst, and full-stack & mobile developer. More honestly, I'm someone who genuinely enjoys the full lifecycle of building digital solutions: framing the problem, modeling the data, designing the interface, writing the code, and shipping something people can actually use.<br><br><br>What I've been building<br><br>Business Intelligence & Data Analytics<br>I completed extensive Power BI work during my coursework, building six interactive dashboards from a retail dataset of 500 records spread across 10 relational tables. Through that work I developed a working command of DAX measures, data model relationships, the distinction between Power Query and DAX transformations, and the discipline of designing dashboards that answer real business questions rather than just displaying numbers. I've also connected directly to Power BI Desktop through MCP tooling, an exercise that taught me as much about data architecture as it did about visualization.<br><br>Full-Stack Development<br>I'm currently building Kairos: The Smart Student Planner, my group project alongside teammates Jesse Praise Yankson and Mpian Vivian. The application is being developed in Python using FastAPI for the backend, SQLAlchemy for ORM and data modeling, JWT for authentication, and NiceGUI for the interface. It's designed to help university students manage coursework, deadlines, and study sessions in one coherent system. Beyond the code itself, I've also led the project's visual identity, settling on a consistent wine and white dark theme with Montserrat typography and a glass-morphism aesthetic.<br><br>Mobile Development<br>I've recently begun learning Flutter from scratch with the goal of building production-grade cross-platform mobile applications. To deepen that journey, I've also applied to the FlutterFlow Student Ambassador program. This is an active learning phase for me, not a claim of mastery, but it's a deliberate investment in the direction I want my career to take.<br><br>Database Systems<br>Through my database coursework I've done deep-dive work on entity-relationship diagrams, normalization theory, and SQL. It's the foundational craft that makes everything else I build more disciplined.<br><br>Document & Automation Engineering<br>I built a complete document-automation workflow for KNUST assignment submissions that handles Word template XML manipulation, PDF-to-image embedding, and LibreOffice-based PDF conversion. It's the kind of unglamorous engineering work that quietly saves hours, and it taught me that good developers solve their own problems first.<br><br>Digital Products & Entrepreneurship<br>Alongside my studies, I independently author and sell professionally formatted study guides on Selar, covering subjects like marketing, operations management, and business research methods. Every guide is generated through custom Python and ReportLab pipelines I've built and refined, with content deliberately grounded in Ghanaian context alongside international references. This work has taught me product thinking, pricing, audience research, and the discipline of shipping consistently.<br><br>What I value<br>I care about clean execution over flashy promises, business outcomes over technical novelty, and lifelong learning over fixed expertise. I prefer plain language over jargon, working software over polished slides, and honest small wins over inflated claims.<br><br>What's next<br>I'm pushing through my third year and already thinking about what comes after, including postgraduate opportunities in IT and business systems abroad. In the meantime, I'm open to internships, freelance projects, collaborative builds, and conversations with anyone working on meaningful problems in data, business intelligence, mobile, or full-stack development, especially work that touches the African market.<br>If any of that resonates, I'd genuinely love to hear from you.
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Francis Kusi — Business minded. Builder at heart. Turning data and everyday problems into useful software." width="100%">
+</p>
 
+<p align="center">
+  <a href="https://franciskusi.dev"><strong>Portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/francis-kusi-1b643a258/"><strong>LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/brainiacweb-tech?tab=repositories"><strong>Explore my work ↗</strong></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/francis-kusi-1b643a258) 
+<br>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=brainiacweb-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=brainiacweb-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=brainiacweb-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### Hi, I'm Francis 👋
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brainiacweb-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+A **Business Information Technology student at KNUST**, database enthusiast, and developer based in **Ghana 🇬🇭**. I build across Python, web, and desktop, explore business intelligence, and am learning Flutter.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I like understanding **why a problem matters** as much as figuring out how to solve it.
+
+<br>
+
+### Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🇬🇭 cedikit
+**Local context. Practical Python.**
+
+A toolkit for Ghanaian phone numbers, cedi amounts, and Mobile Money transactions. Clean data, turn payment SMS into ledgers, and flag suspicious payment messages.
+
+`Python` · `Data validation` · `Desktop & API`
+
+**[Explore cedikit ↗](https://github.com/brainiacweb-tech/cedikit)**
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ Sortify
+**Less file chaos. More control.**
+
+A desktop file organizer with dry-run previews, duplicate detection, storage analytics, and undo. Built to make everyday file management easier.
+
+`Python` · `React` · `Flask`
+
+**[Explore Sortify ↗](https://github.com/brainiacweb-tech/sortify)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Where business meets code
+
+| Focus | What I'm doing |
+| :--- | :--- |
+| **Data & decisions** | Power BI dashboards, DAX, SQL, and relational data modeling. |
+| **Useful software** | Python applications, FastAPI backends, and workflow automation. |
+| **Product thinking** | Building and selling study guides with custom Python and ReportLab pipelines. |
+| **Learning next** | Flutter and cross-platform mobile development. |
+
+<details>
+<summary><strong>A little more about my work ↓</strong></summary>
+
+<br>
+
+- **Business intelligence:** Built six interactive Power BI dashboards from a retail dataset spanning 10 relational tables.
+- **Kairos — Smart Student Planner:** A group project using FastAPI, SQLAlchemy, JWT, and NiceGUI to bring coursework, deadlines, and study sessions together.
+- **Document automation:** Built workflows for Word templates, PDF embedding, and PDF conversion to simplify assignment preparation.
+- **Database foundations:** Exploring entity relationships, normalization, and SQL as the foundation of dependable applications.
+
+</details>
+
+<br>
+
+### My approach
+
+> Understand the business. Model the data. Build with care. Ship something useful.
+
+I'm open to **internships, freelance projects, and thoughtful collaborations** in data, business intelligence, and software—especially ideas with a connection to the African market.
+
+**[Let's connect on LinkedIn ↗](https://www.linkedin.com/in/francis-kusi-1b643a258/)**
 
 ---
-[![](https://komarev.com/ghpvc/?username=brainiacweb-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <sub>Built with curiosity. Grounded in Ghana. Open to the world.</sub>
+</p>
